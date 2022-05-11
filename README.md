@@ -10,6 +10,7 @@ steps to run this app
 7. `php artisan key:generate`
 8. `php artisan migrate`
 9. `php artisan db:seed`
+10. `php artisan test`
 
 ### Wow we setted up so let's auth and get list of users via POSTMAN
 
