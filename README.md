@@ -13,4 +13,4 @@ steps to run this app
 
 ### Wow we setted up so let's auth and get list of users via POSTMAN
 
-I have created link to folder with screenshots. (click [https://www.dropbox.com/scl/fo/onmo4b31bolmoin10q5e8/h?dl=0&rlkey=x85ayakzr0xks9utcs7drw2bs])
+I have created link to folder with screenshots. ([click](https://www.dropbox.com/scl/fo/onmo4b31bolmoin10q5e8/h?dl=0&rlkey=x85ayakzr0xks9utcs7drw2bs) )
